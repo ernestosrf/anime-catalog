@@ -1,4 +1,4 @@
-# dsmovie
+# Anime Catalog
 
 Catálogo de animes com paginação, formulário para avaliação dos animes, e que utiliza Banco de Dados para gerar uma média das avaliações e mostrar graficamente (através do número de estrelas).
 O link direto para acessar o catálogo é: https://ernesto-dsmovie.netlify.app (necessário aguardar cerca de 30 segundos para carregar o frontend por completo ao acessar pela primeira vez).
