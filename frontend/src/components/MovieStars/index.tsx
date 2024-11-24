@@ -1,3 +1,4 @@
+import React from "react";
 import {ReactComponent as StarFull} from 'assets/img/star-full.svg'
 import {ReactComponent as StarHalf} from 'assets/img/star-half.svg'
 import {ReactComponent as StarEmpty} from 'assets/img/star-empty.svg'
@@ -10,9 +11,6 @@ type StarProps = {
   fill: number
 }
 
-// EX:
-// getFills(3.5) => [1, 1, 1, 0.5, 0]
-// getFills(4.1) => [1, 1, 1, 1, 0.5]
 function getFills(score: number) {
 
     const fills = [0, 0, 0, 0, 0];
