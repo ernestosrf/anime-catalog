@@ -52,5 +52,8 @@
     "react-scripts/@babel/core": "^7.16.0",
     "@svgr/webpack/@babel/core": "^7.16.0",
     "jest/@babel/core": "^7.16.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }
