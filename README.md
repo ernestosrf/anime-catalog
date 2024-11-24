@@ -1,6 +1,6 @@
 # Anime Catalog
 
-Catálogo de animes com paginação, formulário para avaliação dos animes, e que utiliza Banco de Dados para gerar uma média das avaliações e mostrar graficamente (através do número de estrelas).
+Catálogo de animes com paginação, formulário para avaliação dos animes, e que calcula a média das avaliações e mostra o resultado graficamente (através do número de estrelas).
 O link direto para acessar o catálogo é: https://ernesto-anime-catalogue.netlify.app.
 
 Ao clicar no ícone do Github, ou no meu nome de usuário, o visitante é direcionado para o meu perfil no GitHub em uma nova Guia.
